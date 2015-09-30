@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Newlearn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">2015年最受欢迎的书籍</string>
+
+
+    <string name="cc001">艺术与摄影</string>
+    <string name="ce002">经济管理</string>
+    <string name="cc003">家庭教育</string>
+    <string name="cc004">旅游与地图</string>
+    <string name="cc005">青春动漫</string>
+    <string name="cc006">恋爱与婚姻</string>
+    <string name="cc007">历史</string>
+    <string name="cc008">计算机与互联网</string>
+
+    <string-array name="c001">
+        <item>摄影的诀窍-杨品</item>
+        <item>设计师的自我修养-左佐</item>
+        <item>摄影的诀窍-杨品</item>
+        <item>设计师的自我修养-左佐</item>
+        <item>摄影的诀窍-杨品</item>
+        <item>设计师的自我修养-左佐</item>
+    </string-array>
+    <string-array name="c002">
+        <item>从Zero到One-布莱克·马斯特斯</item>
+        <item>从Zero到One-布莱克·马斯特斯</item>
+        <item>从Zero到One-布莱克·马斯特斯</item>
+        <item>从Zero到One-布莱克·马斯特斯</item>
+    </string-array>
+    <string-array name="c003">
+        <item>好妈妈胜过好老师-尹建莉</item>
+        <item>好妈妈胜过好老师-尹建莉</item>
+    </string-array>
+    <string-array name="c004">
+        <item>突然就走到了西藏-陈坤</item>
+        <item>突然就走到了西藏-陈坤</item>
+    </string-array>
+    <string-array name="c005">
+        <item>戴眼镜的女孩</item>
+        <item>戴眼镜的女孩</item>
+    </string-array>
+    <string-array name="c006">
+        <item>恋爱与婚姻</item>
+        <item>恋爱与婚姻</item>
+        <item>恋爱与婚姻</item>
+        <item>恋爱与婚姻</item>
+    </string-array>
+    <string-array name="c007">
+        <item>上下五千年</item>
+        <item>明朝那些事</item>
+        <item>东京审判</item>
+    </string-array>
+    <string-array name="c008">
+        <item>Android经典开发教程</item>
+        <item>UI设计原理</item>
+        <item>Java设计模式</item>
+        <item>项目管理</item>
+    </string-array>
+
+</resources>
